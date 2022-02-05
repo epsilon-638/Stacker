@@ -1,5 +1,4 @@
-## Stacker
-### A stack based lang written in racket
+## A stack based lang written in racket
 #### Following https://beautifulracket.com/stacker
 
 ```
@@ -11,3 +10,6 @@
 ```
 ### Output: 
 `2`
+
+- Stacker - Intro to DSLs in Racket
+- FunStacker - Make it functional! 
